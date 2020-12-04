@@ -6,7 +6,7 @@ Thanks for [nfarina](https://github.com/nfarina)(the author of [homebridge](http
    
 **Note: I have only a part of these devices, so some devices don't have tested. If you find bugs, please submit them to [issues](https://github.com/iyuenan3/homebridge-mi-smartclothesdryer/issues).**   
 
-![](https://github.com/iyuenan3/homebridge-mi-smartclothesdryer/master/images/smartclothesdryer.jpg)
+![MIJIASmartClothesDryer](https://raw.githubusercontent.com/iyuenan3/homebridge-mi-smartclothesdryer/main/images/smartclothesdryer.jpg)
 
 ## Supported Devices
 1. MIJIASmartClothesDryer(米家智能晾衣机)   
