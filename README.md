@@ -6,7 +6,7 @@ Thanks for [nfarina](https://github.com/nfarina)(the author of [homebridge](http
    
 **Note: I have only a part of these devices, so some devices don't have tested. If you find bugs, please submit them to [issues](https://github.com/iyuenan3/homebridge-mi-smartclothesdryer/issues).**   
 
-![MiSmartClothesDryer](https://raw.githubusercontent.com/iyuenan3/homebridge-mi-smartclothesdryer/main/images/smartclothesdryer.jpg)
+![MiSmartClothesDryer](https://raw.githubusercontent.com/iyuenan3/homebridge-mi-smartclothesdryer/main/images/SmartClothesDryer.jpg)
 
 ## Supported Devices
 1. MiSmartClothesDryer(米家智能晾衣机)   
@@ -17,7 +17,7 @@ If you are using Raspberry Pi, please read [Running-HomeBridge-on-a-Raspberry-Pi
 2. Make sure you can see HomeBridge in your iOS devices, if not, please go back to step 1.   
 3. Install packages.   
 ```
-npm install -g ***
+npm install -g homebridge-mi-smartclothesdryer
 ```
 ## Configuration
 ```
@@ -27,7 +27,7 @@ npm install -g ***
         "type": "MiSmartClothesDryer",
         "ip": "192.168.88.xx",
         "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-        "LEDName": "living room led light",
+        "LEDName": "living room led light"
     }]
 }]
 ```
