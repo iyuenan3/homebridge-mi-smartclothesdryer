@@ -6,10 +6,10 @@ Thanks for [nfarina](https://github.com/nfarina)(the author of [homebridge](http
    
 **Note: I have only a part of these devices, so some devices don't have tested. If you find bugs, please submit them to [issues](https://github.com/iyuenan3/homebridge-mi-smartclothesdryer/issues).**   
 
-![MIJIASmartClothesDryer](https://raw.githubusercontent.com/iyuenan3/homebridge-mi-smartclothesdryer/main/images/smartclothesdryer.jpg)
+![MiSmartClothesDryer](https://raw.githubusercontent.com/iyuenan3/homebridge-mi-smartclothesdryer/main/images/smartclothesdryer.jpg)
 
 ## Supported Devices
-1. MIJIASmartClothesDryer(米家智能晾衣机)   
+1. MiSmartClothesDryer(米家智能晾衣机)   
 
 ## Installation
 1. Install HomeBridge, please follow it's [README](https://github.com/nfarina/homebridge/blob/master/README.md).   
@@ -22,11 +22,12 @@ npm install -g ***
 ## Configuration
 ```
 "platforms": [{
-    "platform": "***",
+    "platform": "MiSmartClothesDryerPlatform",
     "deviceCfgs": [{
-        "type": "***",
+        "type": "MiSmartClothesDryer",
         "ip": "192.168.88.xx",
         "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        "LEDName": "living room led light",
     }]
 }]
 ```

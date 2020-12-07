@@ -1,0 +1,28 @@
+{
+  "name": "homebridge-mi-smartclothesdryer",
+  "version": "0.0.1",
+  "description": "MIJIA Smart Clothes Dryer Plugins for HomeBridge(https://github.com/nfarina/homebridge).",
+  "keywords": [
+    "homebridge-plugin",
+    "xiaomi",
+    "mi",
+    "smartclothesdryer",
+    "plug"
+  ],
+  "author": "Maxwell Li",
+  "homepage": "https://github.com/iyuenan3/homebridge-mi-smartclothesdryer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iyuenan3/homebridge-mi-smartclothesdryer"
+  },
+  "bugs": {
+    "url": "https://github.com/iyuenan3/homebridge-mi-smartclothesdryer/issues"
+  },
+  "engines": {
+    "node": ">=7.0.0",
+    "homebridge": ">=0.4.1"
+  },
+  "dependencies": {
+    "miio": "0.14.1"
+  }
+}
