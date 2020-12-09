@@ -1,8 +1,10 @@
 # homebridge-mi-smartclothesdryer
 
+**Warning, this plugin does not work now!!!**
+
 MIJIA Smart Clothes Dryer plugins for HomeBridge.   
    
-Thanks for [nfarina](https://github.com/nfarina)(the author of [homebridge](https://github.com/nfarina/homebridge)), [OpenMiHome](https://github.com/OpenMiHome/mihome-binary-protocol), [aholstenson](https://github.com/aholstenson)(the author of [miio](https://github.com/aholstenson/miio)), [Mr.Yin](https://github.com/YinHangCode)(the author of some xiaomi plugins), all other developer and testers.   
+Thanks for [nfarina](https://github.com/nfarina)(the author of [homebridge](https://github.com/nfarina/homebridge)), [OpenMiHome](https://github.com/OpenMiHome/mihome-binary-protocol), [aholstenson](https://github.com/aholstenson)(the author of [miio](https://github.com/aholstenson/miio)), all other developer and testers.   
    
 **Note: I have only a part of these devices, so some devices don't have tested. If you find bugs, please submit them to [issues](https://github.com/iyuenan3/homebridge-mi-smartclothesdryer/issues).**   
 
